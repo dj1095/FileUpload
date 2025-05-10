@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<apachePOI.version>4.1.2</apachePOI.version>
+		<apachePOI.version>5.4.0</apachePOI.version>
 	</properties>
 
 	<dependencies>
